@@ -1,0 +1,12 @@
+From: PayPal <security@paypaI.com>
+To: victim@example.com
+Subject: Urgent: Your Account is Suspended
+
+Dear Customer,
+
+We detected unauthorized activity on your account. For your protection, your account has been suspended. Please verify your identity within 24 hours to avoid permanent closure.
+
+Click here to verify: http://paypal.verification-update-login.com
+
+Thank you,  
+PayPal Security Team
